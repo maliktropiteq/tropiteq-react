@@ -144,7 +144,7 @@ function AboutusSection() {
           <div className='container parent-conatiner flex-column'>
 
             <p className='para-text text-primaryBlue '>
-            We work with Global tech giants to deliver unparalleled results
+            We work with Global tech titans to deliver unparalleled results
             </p>
             <div className='item-conatiner'>
               <div>
