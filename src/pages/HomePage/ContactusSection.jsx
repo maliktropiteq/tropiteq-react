@@ -88,7 +88,7 @@ function ContactusSection() {
                          value="SEO"
                          onChange={handleChange}
                         />
-                        <label htmlFor="checkbox">SEO</label>
+                        <label htmlFor="checkbox">Business Intelligence</label>
                       </div>
                       <div className='d-flex align-items-center'>
                         <input 
@@ -97,7 +97,7 @@ function ContactusSection() {
                          value="Market Research"
                          onChange={handleChange}
                         />
-                        <label htmlFor="checkbox">Market Research</label>
+                        <label htmlFor="checkbox">Competitor Analysis</label>
                       </div>
                       <div className='d-flex align-items-center'>
                         <input 
@@ -106,7 +106,7 @@ function ContactusSection() {
                          value="Web Design & Development"
                          onChange={handleChange}
                         />
-                        <label htmlFor="checkbox">Web Design & Development</label>
+                        <label htmlFor="checkbox">Complete Market Research</label>
                       </div>
                     </div>
                 </div>

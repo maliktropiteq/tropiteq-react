@@ -32,7 +32,7 @@ function ServiceSection() {
           <div className="col-xl-4 col-lg-5 pe-xl-5 mb-lg-0 mb-md-5">
             <h2>Our Services </h2>
             <p className='para-text text-primaryLight'>
-              We epitomise excellence in contemporary marketing, employing a strategic focus on very specific blend of Market Research, Web Design & Development, and Search Engine Optimisation to enhance your brand's digital footprint.
+            Why waste time on brainstorming and guessing the trade secrets of your competitors when you can get a complete blueprint of all their secrets. Our market research approach includes Business Intelligence and Competitor Analysis. 
             </p>
           </div>
           <div className="col-lg-7 offset-xl-1">
@@ -58,7 +58,7 @@ function ServiceSection() {
                       <label className=''>
                         Business Intelligence
                       </label>
-                      <p className='swiper-detail'>We analyse your business data to generate insights that will help us identify patterns and correlations in your business and finally make recommendations to reach profitability.</p>
+                      <p className='swiper-detail'>We analyse your business data to generate insights that will help us identify patterns and correlations in your operations and make recommendations on how to improve.</p>
                       {/*  <ul>
                         <li>Technical SEO</li>
                         <li>Local SEO</li>
@@ -87,7 +87,7 @@ function ServiceSection() {
                       <label className=''>
                         Competitor Analysis
                       </label>
-                      <p className='swiper-detail'>We put your competitors under a microscope to uncover all of their strategies. We analyse all key metrics of the competitors to give you the actual overview of the market.</p>
+                      <p className='swiper-detail'>We put all your competitors under a microscope to uncover all of their secrets. We analyse all key areas such as the actual consumer demographics, trends and all maketing activities.</p>
                       {/* <ul>
                         <li>Business Intelligence</li>
                         <li>Competitor Analysis</li>
@@ -107,7 +107,7 @@ function ServiceSection() {
                     </div>
                     <div>
                       <label className=''>
-                        Market Research
+                        Complete Market Research
                       </label>
                       <p className='swiper-detail'>We combine both the insights of your operations data (Business Intelligence) and a comprehensive competitor analysis to give you a clear view of the market.</p>
                       {/*<ul>

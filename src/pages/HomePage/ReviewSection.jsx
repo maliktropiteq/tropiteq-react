@@ -69,7 +69,7 @@ function ReviewSection() {
           Testimonials
         </h2>
         <div className='sub-heading text-primaryDark'>
-          What Our Customers are Saying
+          What Our Clients are Saying
         </div>
       </div>
       <div className='slider-conatiner'>
@@ -81,7 +81,7 @@ function ReviewSection() {
                 <div className='slide-parent'>
                   <div className='slide-upper'>
                     <p>
-                      “I used Tropiteq for SEO for my website and now my entire search engine traffic is up 200% from last month!.”
+                      “Using the insights provided by Tropiteq, we were able to increase our online web traffic by 85% in one month!”
                     </p>
                   </div>
                   <div className='slide-footer'>
@@ -91,10 +91,10 @@ function ReviewSection() {
                       </div>
                       <div>
                         <div className='avatar-name'>
-                          Carl Rowan
+                          SC
                         </div>
                         <div className='avatar-title'>
-                          Aglets Inc
+                          Head of Marketing at Jagad
                         </div>
                       </div>
                     </div>

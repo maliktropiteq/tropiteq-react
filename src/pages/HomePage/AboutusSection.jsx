@@ -29,24 +29,24 @@ function AboutusSection() {
             <div className="col-md-6">
               <div className='d-flex flex-column gap-4'>
                 <div className='sub-heading text-primaryDark'>
-                  WE BRING YOUR
+                  WE WILL GIVE YOU
                   <br />
-                  IDEAS TO LIFE
+                  THE BLUEPRINT TO SUCCESS
                 </div>
                 <div>
                   <div className='dash-heading'>
                     - Our Mission-
                   </div>
                   <p className='para-text text-primaryDark'>
-                    To empower businesses with data-driven digital strategies, delivering sustainable growth and a competitive edge.
+                  To empower businesses and strategists with data-insights that delivers outstanding growth and gives them a competitive edge.
                   </p>
                 </div>
                 <div>
                   <div className='dash-heading'>
-                    - Our Mission-
+                    - Our Vision-
                   </div>
                   <p className='para-text text-primaryDark'>
-                    To empower businesses with data-driven digital strategies, delivering sustainable growth and a competitive edge.
+                  To be a global leader in market research, setting the standard for innovation and results-driven strategies.
                   </p>
                 </div>
               </div>
@@ -65,9 +65,8 @@ function AboutusSection() {
               - ABOUT US-
             </div>
             <div className="sub-heading text-primarDark">
-              We Create Digital Products
-              <br />
-              That Enhance The <span className='text-primaryBlue bg-secondaryBlue bg-highlight'>User Experince</span>
+              Why reinvent the wheel 
+              when you can have the <span className='text-primaryBlue bg-secondaryBlue bg-highlight'>Blueprint</span>
             </div>
             <div className='about-bg'>
               {/* <img src={whyus} alt="why us" /> */}
@@ -80,9 +79,7 @@ function AboutusSection() {
               <div className='purple-box'>
                 <div className='line-1'>What We Do</div>
                 <div className='line-2'>
-                  We Provide
-                  Solutions For Your
-                  Company’s Needs.
+                 We give you the edge to succeed using insights from data analysis
                 </div>
               </div>
             </div>
@@ -100,7 +97,7 @@ function AboutusSection() {
                   Deep Expertise:
                 </div>
                 <p className='para-text text-primaryDrak'>
-                  We posses more than seven years of combined expertise in deep market research which allows us to provide our clients with specially tailored services that guarantees outstanding results.
+                  We posses more than five years of expertise in market research which allows us to provide our clients with impeccable services that guarantees outstanding results.
                 </p>
               </div>
               <div>
@@ -147,7 +144,7 @@ function AboutusSection() {
           <div className='container parent-conatiner flex-column'>
 
             <p className='para-text text-primaryBlue '>
-              We're have been recognized by Leading Finance Publications and Organizations.
+            We work with Global tech giants to deliver unparalleled results
             </p>
             <div className='item-conatiner'>
               <div>

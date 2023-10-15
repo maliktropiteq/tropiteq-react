@@ -11,7 +11,7 @@ function Herosection() {
           <div className='position-absolute top-0'>
             <h1 className='heading'>Leading Market <br /> Research Agency</h1>
             <p className='paragrph'>
-              We Empower Strategists and Businesses With The Secrets of Their Competitors
+              We Empower Businesses and Strategists With The Secrets of Their Competitors
             </p>
             
             <a href="#conatct-section" className="btn btn-outline-light button">GET IN TOUCH</a>

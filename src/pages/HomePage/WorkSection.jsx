@@ -46,9 +46,9 @@ function WorkSection() {
                     <div className="overlay-text">
               <div>
                 <h3>
-                Jagad Mobile App
+                Silkennco
                 </h3>
-              <p>Our Approach with Jagad Mobile App was to highlight the strategy of the key competitors and use that to help create out go-to-market strategy. This led to a more than 100% in website traffic and 150% conversion rate</p>
+              <p>Silkennco is an indie skincare brand in New York seeking to rebrand and expand product inventory.Our Approach with Silkennco was to highlight the strategy of the key competitors and use that to help create a new branding strategy. We also provided an inventory of the top selling products in the Skincare category on Amazon in the US to aid in what to stock in inventory. This led to a more than 100% in website traffic and 98% conversion rate in a month.</p>
 
               </div>
             </div>
@@ -65,11 +65,11 @@ function WorkSection() {
             <div className="overlay-text">
               <div>
                 <h3>
-                Jagad Mobile App
+                Silkennco
                 </h3>
-              <p>Our Approach with Jagad Mobile App was to highlight the strategy of the key competitors and use that to help create out go-to-market strategy. This led to a more than 100% in website traffic and 150% conversion rate</p>
+                <p>Silkennco is an indie skincare brand in New York seeking to rebrand and expand product inventory.Our Approach with Silkennco was to highlight the strategy of the key competitors and use that to help create a new branding strategy. We also provided an inventory of the top selling products in the Skincare category on Amazon in the US to aid in what to stock in inventory. This led to a more than 100% in website traffic and 98% conversion rate in a month.</p>
 
-              </div>
+          </div>
             </div>
           </div>
           <div className="image-container">
@@ -88,12 +88,11 @@ function WorkSection() {
             <img className="hover-shadow" src={img3} alt="case study" />
             <div className="overlay-text">
              <div>
-                <h3>
-                Jagad Mobile App
+             <h3>
+                Silkennco
                 </h3>
-              <p>Our Approach with Jagad Mobile App was to highlight the strategy of the key competitors and use that to help create out go-to-market strategy. This led to a more than 100% in website traffic and 150% conversion rate</p>
-
-              </div>
+                <p>Silkennco is an indie skincare brand in New York seeking to rebrand and expand product inventory.Our Approach with Silkennco was to highlight the strategy of the key competitors and use that to help create a new branding strategy. We also provided an inventory of the top selling products in the Skincare category on Amazon in the US to aid in what to stock in inventory. This led to a more than 100% in website traffic and 98% conversion rate in a month.</p>
+            </div>
             </div>
           </div>
         </div>
@@ -102,17 +101,17 @@ function WorkSection() {
         <div id='blue-band' className='bg-primaryBlue'>
           <div className='container  d-flex h-100 justify-content-between align-items-center'>
             <div className='achivement'>
-              <div className='number'>147</div>
+              <div className='number'>55</div>
               <div className='text'>CLIENT
                 SATISFACTION</div>
             </div>
             <div className='achivement'>
-              <div className='number'>24</div>
-              <div className='text'>PROJECT
+              <div className='number'>58</div>
+              <div className='text'>PROJECTS
                 COMPLETED</div>
             </div>
             <div className='achivement'>
-              <div className='number'>12</div>
+              <div className='number'>15</div>
               <div className='text'>PARTNERS
                 SATISFACTION</div>
             </div>
